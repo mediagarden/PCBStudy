@@ -1,0 +1,30 @@
+Added Component: Designator=BT1(DC2.1)
+Added Component: Designator=D1(0805)
+Added Component: Designator=Q1(SOT-23)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R4(5547)
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_2 Pin=BT1-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetBT1_2 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-3
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R2-2
+Added Pin To Net: NetName=NetBT1_2 Pin=R3-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=NetR2_1 Pin=R4-1
+Added Pin To Net: NetName=NetBT1_1 Pin=R4-2
+Added Member To Class: ClassName=PCBStudy(LEDLight) Member=Component BT1 4.5V
+Added Member To Class: ClassName=PCBStudy(LEDLight) Member=Component D1 LED0
+Added Member To Class: ClassName=PCBStudy(LEDLight) Member=Component Q1 8550
+Added Member To Class: ClassName=PCBStudy(LEDLight) Member=Component R1 Res2
+Added Member To Class: ClassName=PCBStudy(LEDLight) Member=Component R2 Res2
+Added Member To Class: ClassName=PCBStudy(LEDLight) Member=Component R3 Res2
+Added Member To Class: ClassName=PCBStudy(LEDLight) Member=Component R4 5547
+Added Room: Name=PCBStudy(LEDLight)

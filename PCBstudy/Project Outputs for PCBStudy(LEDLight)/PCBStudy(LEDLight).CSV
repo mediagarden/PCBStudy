@@ -1,0 +1,10 @@
+"Bill of Material for PCBStudy(LEDLight).PcbDoc"
+"On 2017/8/20 at 0:52:35"
+
+"Comment","Pattern","Quantity","Components"
+
+"4.5V","DC2.1","1","BT1","Multicell Battery"
+"5547","5547","1","R4","Resistor"
+"8550","SOT-23","1","Q1","PNP Bipolar Transistor"
+"LED0","0805","1","D1","Typical INFRARED GaAs LED"
+"Res2","0805","3","R1, R2, R3","Resistor"
