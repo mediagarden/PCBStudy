@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetBT1_1 Pin=BT1-1
+Removed Pin From Net: NetName=NetBT1_2 Pin=BT1-2
+Removed Member From Class: ClassName=PCBStudy(LEDLight) Member=BT1
+Removed Member From Class: ClassName=PCBStudy(LEDLight) Member=BT1
+Removed Member From Class: ClassName=PCBStudy(LEDLight) Member=BT1
+Removed Member From Class: ClassName=PCBStudy(LEDLight) Member=BT1
+Added Component: Designator=P1(DC2.1)
+Added Pin To Net: NetName=NetBT1_1 Pin=P1-1
+Added Pin To Net: NetName=NetBT1_2 Pin=P1-3
+Change Net Name : Old Net Name=NetBT1_1 New Net Name=NetP1_1
+Change Net Name : Old Net Name=NetBT1_2 New Net Name=NetP1_3
+Added Member To Class: ClassName=PCBStudy(LEDLight) Member=Component P1 DC2.1
+Added Room: Name=PCBStudy(LEDLight)
